@@ -46,7 +46,7 @@ The objective of this project is to transform raw car sales data into an interac
 
 ### Dashboard Overview
 
-![Car Sales Dashboard Overview](dashboard-overview.png)
+![Car Sales Dashboard Overview](Dashboard-overview.png)
 
 ### Car Sales Details
 
